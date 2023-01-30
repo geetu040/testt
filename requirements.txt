@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+numpy
+tensorflow-cpu
+keras
+Pillow

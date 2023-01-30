@@ -1,0 +1,5 @@
+__pycache__
+ruff
+
+src\movie_reviews\__pycache__
+src\cat_and_dog\__pycache__
